@@ -1,0 +1,29 @@
+{
+  "name": "compile-deploy-sc",
+  "version": "1.0.0",
+  "description": "Example for compiling and deploying Smart Contracts with pure JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniellara/compile-deploy-SC.git"
+  },
+  "keywords": [
+    "SmartContract",
+    "Ethereum"
+  ],
+  "author": "Daniel Lara <daniel.lara.diezma@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "7.0.1",
+    "solc": "0.5.3",
+    "truffle-hdwallet-provider": "1.0.2",
+    "web3": "1.0.0-beta.35"
+  },
+  "bugs": {
+    "url": "https://github.com/daniellara/compile-deploy-SC/issues"
+  },
+  "homepage": "https://github.com/daniellara/compile-deploy-SC#readme"
+}
